@@ -6,7 +6,7 @@ public class firstjava {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
-		System.out.println("hi");
+	
 
 
 	}

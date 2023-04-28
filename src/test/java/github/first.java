@@ -1,6 +1,6 @@
 package github;
 
-public class first {
+public class firstjava {
 
 	public static void main(String[] args) {
 		System.out.println("hi");
